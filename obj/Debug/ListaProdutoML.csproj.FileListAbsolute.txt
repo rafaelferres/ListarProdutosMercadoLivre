@@ -1,0 +1,12 @@
+C:\Rafael\GitHub\ListaProdutoML\ListaProdutoML\ListaProdutoML\bin\Debug\ListaProdutoML.exe.config
+C:\Rafael\GitHub\ListaProdutoML\ListaProdutoML\ListaProdutoML\bin\Debug\ListaProdutoML.exe
+C:\Rafael\GitHub\ListaProdutoML\ListaProdutoML\ListaProdutoML\bin\Debug\ListaProdutoML.pdb
+C:\Rafael\GitHub\ListaProdutoML\ListaProdutoML\ListaProdutoML\bin\Debug\net-sdk.dll
+C:\Rafael\GitHub\ListaProdutoML\ListaProdutoML\ListaProdutoML\bin\Debug\Newtonsoft.Json.dll
+C:\Rafael\GitHub\ListaProdutoML\ListaProdutoML\ListaProdutoML\bin\Debug\RestSharp.dll
+C:\Rafael\GitHub\ListaProdutoML\ListaProdutoML\ListaProdutoML\bin\Debug\net-sdk.pdb
+C:\Rafael\GitHub\ListaProdutoML\ListaProdutoML\ListaProdutoML\obj\Debug\ListaProdutoML.csprojResolveAssemblyReference.cache
+C:\Rafael\GitHub\ListaProdutoML\ListaProdutoML\ListaProdutoML\obj\Debug\ListaProdutoML.csproj.ListaProdutoML.exe.config
+C:\Rafael\GitHub\ListaProdutoML\ListaProdutoML\ListaProdutoML\obj\Debug\ListaProdutoML.csproj.CoreCompileInputs.cache
+C:\Rafael\GitHub\ListaProdutoML\ListaProdutoML\ListaProdutoML\obj\Debug\ListaProdutoML.exe
+C:\Rafael\GitHub\ListaProdutoML\ListaProdutoML\ListaProdutoML\obj\Debug\ListaProdutoML.pdb
